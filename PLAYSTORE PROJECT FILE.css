@@ -1,0 +1,584 @@
+*
+{
+    margin: 0;
+    padding: 0;
+   
+}
+.nav{
+    display: flex;
+    background-color: white;
+}
+.google{
+    color: gray;
+    font: 25px "Google Sans",Roboto,Arial,sans-sherif;
+    font-size: 40px;
+    position: relative;
+    right: 30px;
+    margin: 2px;
+    padding: 25px;
+    font-weight:20px;
+    text-decoration: none;
+}
+.pl{
+    position: relative;
+    right: 250px;
+    text-decoration: none;
+}
+
+.nav{
+    display: flex;
+    background-color: white;
+} 
+
+.lists{
+    font: "Google Sans",Roboto,Arial,sans-sherif;
+    position: relative;
+    left: 2px;
+    align-items: center;
+    font-size: 30px;
+    color: gray;
+    margin: 2px;
+    padding: 35px;
+    text-decoration: none;
+}
+.icon{
+    position:relative;
+    left: 20px;
+    align-items: end;
+    color: gray;
+    margin: 2px;
+    padding: 30px;
+
+}
+.nav2 {
+    display: flex;
+    background-color: white;
+}
+.options{
+    font: "Google Sans",Roboto,Arial,sans-sherif;
+    background-color: white;
+    position: relative;
+    left: 60px;
+    align-items: center;
+    font-size: 30px;
+    color: gray;
+    margin: 2px;
+    padding: 30px;
+    
+}
+
+.TC{
+    font: "Google Sans",Roboto,Arial,sans-sherif;
+    font: bolder;
+    font-size: 40px;
+    position: relative;
+    color: gray;
+    margin: 2px;
+    padding: 30px;
+    align-items: center;
+    left: 60px;
+    display: flex;
+    background-color: white;
+    
+    
+}
+.type{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    margin: 20px;
+    padding: 3opx;
+    align-items: center;
+    left: 80px;
+}
+.branch{
+    display: flex;
+    background-color: white;
+}
+
+.playgame1{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    left : 80px;
+    margin: 20px;
+    display: flex;
+}
+.playgame2{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    left: 80px;
+    margin: 20px;
+    display: flex;
+}
+.playgame3{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    left: 80px;
+    margin: 20px;
+    display: flex;
+
+}
+.playgame4{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 120px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    left: 80px;
+    margin: 20px;
+    display: flex;
+}
+
+.playgame5{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 120px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    left: 80px;
+    margin: 20px;
+    display: flex;
+}
+
+.playgame6{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 120px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    left: 80px;
+    margin: 20px;
+    display: flex;
+
+}
+.playgame7{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 190px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    left: 80px;
+    margin: 20px;
+    display: flex;
+}
+.playgame8{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 190px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    left: 80px;
+    margin: 20px;
+    display: flex;
+}
+.playgame9{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 190px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    left: 80px;
+    margin: 20px;
+    display: flex;
+}
+.Games{
+    display: flex;
+    background-color: white;
+}
+.RFY{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    font: bolder;
+    font-size: 40px;
+    position: relative;
+    color: gray;
+    margin: 2px;
+    padding: 30px;
+    align-items: center;
+    left: 60px;
+    display: flex;
+    background-color: white;
+}
+.Image1{
+    display: flex;
+    background-color: white;
+    padding-left: 80px;
+    margin: 6px;
+}
+
+
+.gamer1{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex;
+}
+.Image2{
+    display: flex;
+    background-color: white;
+    padding-left: 80px;
+    margin: 6px;
+}
+.gamer2{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex;
+}
+.Image3{
+    display: flex;
+    background-color: white;
+    padding-left: 80px;
+    margin: 6px;
+}
+.gamer3{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex;
+}
+.par{
+    display: flex;
+    background-color: white;
+
+}
+.OFG{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    font: bolder;
+    font-size: 40px;
+    position: relative;
+    color: gray;
+    margin: 2px;
+    padding: 30px;
+    align-items: center;
+    left: 60px;
+    display: flex;
+    background-color: white;
+}
+.Image4{
+    display: flex;
+    background-color: white;
+    padding-left: 80px;
+    margin: 6px;
+}
+
+
+.gamer4{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex;
+}
+.Image5{
+    display: flex;
+    background-color: white;
+    padding-left: 80px;
+    margin: 6px;
+}
+.gamer5{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex;
+}
+.Image6{
+    display: flex;
+    background-color: white;
+    padding-left: 80px;
+    margin: 6px;
+}
+.gamer6{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex;
+}
+.tar{
+    display: flex;
+    background-color: white;
+
+}
+
+.CSG{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    font: bolder;
+    font-size: 40px;
+    position: relative;
+    color: gray;
+    margin: 2px;
+    padding: 30px;
+    align-items: center;
+    left: 60px;
+    display: flex;
+    background-color: white;
+}
+.Image7{
+    display: flex;
+    background-color: white;
+    padding-left: 80px;
+    margin: 6px;
+}
+
+
+.gamer7{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex;
+}
+.Image8{
+    display: flex;
+    background-color: white;
+    padding-left: 80px;
+    margin: 6px;
+}
+.gamer8{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex;
+}
+.Image9{
+    display: flex;
+    background-color: white;
+    padding-left: 80px;
+    margin: 6px;
+}
+.gamer9{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex;
+}
+.kar{
+    display: flex;
+    background-color: white;
+
+}
+
+.TRG{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    font: bolder;
+    font-size: 40px;
+    position: relative;
+    color: gray;
+    margin: 2px;
+    padding: 30px;
+    align-items: center;
+    left: 60px;
+    display: flex;
+    background-color: white;
+}
+.Image10{
+    display: flex;
+    background-color: white;
+    padding-left: 80px;
+    margin: 6px;
+}
+
+
+.gamer10{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex;
+}
+.Image11{
+    display: flex;
+    background-color: white;
+    padding-left: 80px;
+    margin: 6px;
+}
+.gamer11{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex;
+}
+.Image12{
+    display: flex;
+    background-color: white;
+    padding-left: 80px;
+    margin: 6px;
+}
+.gamer12{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex;
+}
+.nar{
+    display: flex;
+    background-color: white;
+
+}
+.SM{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    font-size: 20px;
+    color: black;
+    position: relative;
+    align-items: center;
+    left: 650px;
+    padding-bottom: 60px;
+    margin: 40px;
+    display: flex;
+}
+.GP{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: grey;
+    font-size: 30px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex;
+}
+.word{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex; 
+    padding: 20px;
+}
+.CF{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 120px;
+    color: grey;
+    font-size: 30px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex; 
+}
+.word2{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 120px;
+    font-size: 20px;
+    position: relative;
+    color: gray;
+    align-items: center;
+    margin: 20px;
+    display: flex; 
+    padding: 20px; 
+}
+.end{
+    display: flex;
+    background-color: white;
+}
+.end2{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 90px;
+    color: gray;
+    position: relative;
+    font-size: 15px;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+}
+.end3{
+    font:"Google Sans",Roboto,Arial,sans-sherif ;
+    left: 300px;
+    color: gray;
+    position: relative;
+    font-size: 15px;
+    align-items: center;
+    
+}
+
+.final{
+    display: flex;
+    background-color: white;
+}
